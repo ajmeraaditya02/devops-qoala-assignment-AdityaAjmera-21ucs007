@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore Git metadata folder if already initialized
+.git/
+
+# Ignore PEM files (private keys or certificates)
+*.pem
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
