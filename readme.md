@@ -2,6 +2,7 @@
 
 ## AWS Instance Access
 AWS Instance Link: http://13.53.42.188/
+#only http requests 
 
 ## Application Details
 - **IP Address:** 172.18.0.2
